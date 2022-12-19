@@ -4,7 +4,7 @@ Projeto desenvolvido em HTML e CSS com o objetivo de em apenas uma tela exibir n
 
 🔗 [Click here to access]()
 
-![screenshot](images/read.me.mylinks.png)
+![screenshot](images/readme.png)
 
 ## Tecnologias
 
